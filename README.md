@@ -1,8 +1,8 @@
-# Dash Iris App Template: Dpage
+# Dash Iris App Template: dash1
 
-Created on 2024-03-20 06:05:43.300875
+Created on 2024-03-20 08:58:05.814557
 
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your Dpage app.
+Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your dash1 app.
 
 See [Faculty.ai](https://dash-bootstrap-components.opensource.faculty.ai/examples/) for more information.
 
